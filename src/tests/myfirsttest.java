@@ -12,13 +12,10 @@ public class myfirsttest {
 
 
 		WebDriver driver = new ChromeDriver();
-		
-		
-		
-		
+
 		System.setProperty("webdriver.chrome.driver","//Users//ruhulalam//framework2018//drivers//chromedriver");
 		driver.get ("http://www.facebook.com");
 
-
+		//new test	
 	}
 }	//
